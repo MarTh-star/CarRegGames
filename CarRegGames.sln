@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RightNrOfChar", "RightNrOfC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platespotting", "Platespotting\Platespotting.csproj", "{B013A168-65F8-40AB-988B-D2CB5BC70793}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJack", "BlackJack\BlackJack.csproj", "{9AAC29B8-BD2C-4E67-88A6-7A9E267A23A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B013A168-65F8-40AB-988B-D2CB5BC70793}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B013A168-65F8-40AB-988B-D2CB5BC70793}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B013A168-65F8-40AB-988B-D2CB5BC70793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AAC29B8-BD2C-4E67-88A6-7A9E267A23A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AAC29B8-BD2C-4E67-88A6-7A9E267A23A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AAC29B8-BD2C-4E67-88A6-7A9E267A23A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AAC29B8-BD2C-4E67-88A6-7A9E267A23A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
